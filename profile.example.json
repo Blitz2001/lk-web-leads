@@ -1,0 +1,24 @@
+{
+  "your_name": "Your Name",
+  "business_name": "Your Studio",
+  "base_city": "Colombo",
+  "email": "you@example.com",
+  "whatsapp": "+94 7X XXX XXXX",
+  "portfolio_url": "https://your-portfolio.example",
+  "offer_hook": "a free homepage mockup",
+  "custom_first_categories": ["hotels", "tours", "realestate"],
+  "services": {
+    "wordpress": {
+      "label": "WordPress websites",
+      "from_price": "LKR 45,000"
+    },
+    "custom": {
+      "label": "fast custom-coded websites",
+      "from_price": "LKR 75,000"
+    },
+    "chatbot": {
+      "label": "website & WhatsApp chatbots",
+      "from_price": "LKR 25,000"
+    }
+  }
+}

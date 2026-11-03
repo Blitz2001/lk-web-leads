@@ -1,0 +1,12 @@
+# your private data: never commit
+profile.json
+*.db
+out/
+statuses*.json
+my_leads*.csv
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
